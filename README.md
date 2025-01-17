@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm a **3rd-year Computer Science Engineering (CSE) studen
 - **SQL**, **MongoDB** (NoSQL)
 
 ### Web Development:
-- **Frontend**: HTML, CSS, **Tailwind CSS**, **JavaScript**
+- **Frontend**: HTML, CSS, **Tailwind CSS**, **JavaScript**,**React**
 - **Backend**: **Express.js**, **Node.js**
 - **Databases**: **SQL**, **MongoDB**
 
