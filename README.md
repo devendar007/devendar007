@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a **3rd-year Computer Science Engineering (CSE) studen
 ## 💻 Skills & Technologies
 
 ### Programming Languages:
-- **JavaScript** (ES6+), **Java**, **C++**, **HTML/CSS**
+- **JavaScript** (ES6+), **Java**, **C++**
 - **SQL**, **MongoDB** (NoSQL)
 
 ### Web Development:
