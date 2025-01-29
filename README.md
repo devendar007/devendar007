@@ -31,7 +31,7 @@ Welcome to my GitHub! I'm a **3rd-year Computer Science Engineering (CSE) studen
 I'm always trying to expand my knowledge in various domains of **Computer Science**. Here are a few things I’m currently working on:
 - **Data Structures & Algorithms**: I’m solving algorithmic challenges on platforms like **LeetCode**, **HackerRank**, and **Codeforces**.
 - **Web Development**: Continuing to enhance my backend development skills.
-- **Machine Learning**: Exploring the basics of machine learning with **Python**.
+
 
 
 ---
@@ -39,7 +39,7 @@ I'm always trying to expand my knowledge in various domains of **Computer Scienc
 ## 🌱 Currently Learning
 - **React.js** and **Node.js** for Full Stack Development
 - Deep dive into **Data Structures & Algorithms** to improve competitive programming skills
-- Exploring **Servlets** in Java.
+
 
 ---
 
